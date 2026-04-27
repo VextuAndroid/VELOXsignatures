@@ -1,1 +1,1 @@
-3.0|https://youtu.be/ku0ew7M1w9Q?si=BQuO8KjyrlY62gOC|New Features:\n\nNo VPN.\nButton visibility corrected.\nNew bypass.\nStop engine from the notification.\nbutton size correction.\nStart or stop engine from Quick settings.
+4.0|https://youtu.be/gRjOkWSFMlw?si=SBsz1Z-2NJmWcFiT|New Features:\n\nNew Bypass.\nNew Lock Ui Option.\nNo lag. 
