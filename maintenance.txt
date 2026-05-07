@@ -1,2 +1,2 @@
-true|Fake Lag Velox is currently undergoing maintenance for updates.
+false|Fake Lag Velox is currently undergoing maintenance for updates.
 We'll be back shortly. Thank you for your patience.
